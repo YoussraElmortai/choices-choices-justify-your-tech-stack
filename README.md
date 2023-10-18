@@ -1,8 +1,7 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
+# Vue and Supebase
+## Justify your Tech-stack
 
-# Justify your Tech-stack
-
-Verantwoord en presenteer je keuze voor een tech-stack.
 
 <!-- Haal bovenstaande tekst weg! -->
 
