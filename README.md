@@ -1,5 +1,5 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
-# Vue and Supebase
+# Vue 
 ## Justify your Tech-stack
 
 
