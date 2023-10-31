@@ -1,6 +1,12 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
-# Vue 
+# Vue and Contentful
 ## Justify your Tech-stack
+
+### User eXperience 👀
+
+### Developer eXperience 💻
+
+### Content Mangagement eXperience ✍
 
 
 <!-- Haal bovenstaande tekst weg! -->
